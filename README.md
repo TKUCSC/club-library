@@ -1,68 +1,12 @@
-# **{ Project Title }**
+# **Club Library**
 
-**{ Paragraph description with proper punctuation. }**
-
-**!{ Non project assets should be kept in 'res/repo'. }**
-
-**!{ Include a project icon|banner if present. }**
-![project logo|banner](res/repo/banner-crown.png "{ Logo description }")
-
-
-## Getting Started
-
-**{ List steps required to download and configure all libraries to develop on the project... *step by step*! }**
-
-
-### Installing
-
-**{ Step }**
-
-```
->$ commands...
-```
-
-**{ Next step }**
-
-```
->$ commands
-```
-
-### Compiling
-
-**{ Step }**
-
-```
->$ commands...
-```
-
-### Running
-
-**{ Step }**
-
-```
->$ commands...
-```
-
-### Testing
-
-**{ Step }**
-
-```
->$ commands...
-```
-
-## Deploying
-
-**{ Additional steps required to deploy the project into production. }**
-
-## Documentation
-
-Software specifications & design documents can be found in the [wiki](/wiki).
+**An archive of all things past, present and future. Contains a library of resources & presentations for and by club members.**
 
 ## See Also
 
-- **{ Title } - { link to relevant software/guide/doumentation }**
-- **{ Title } - { link to relevant software/guide/doumentation }**
+- **Charter - [TKUCSC charter](https://github.com/TKUCSC/charter).**
+- **Assets - [TKUCSC documents](https://github.com/TKUCSC/club-assets).**
+- **Documents - [TKUCSC documents](https://github.com/TKUCSC/club-documents).**
 
 ## Contributing
 
