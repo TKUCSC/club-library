@@ -4,7 +4,7 @@
 
 ## More
 
-- **Style** - [{ link to styles guideline if applicable }]() !(if applicable)
+- **Dogma** - [{ link to dogma guideline if applicable }]() !(if applicable)
 - **Relevant resources** -
   - [{ Link 1}]()
   - [{ Link 2}]()
