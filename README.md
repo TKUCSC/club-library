@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-**Documents of intrest** - Checkout [doga README.md](dogma/README.md) and [guides README.md](guides/README.md)
+**Documents of intrest** - Checkout [dogma README.md](dogma/README.md) and [guides README.md](guides/README.md)
 
 ## See Also
 
